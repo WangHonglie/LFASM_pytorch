@@ -49,8 +49,12 @@ python test.py --gpu_ids <gpu_ids> \\
 ```
 python evaluate_gpu.py
 ```
-
 It will output Rank@1,Rank@5,Rand@10 and mAP
+5.Complexity calculation
+```
+python flops.py
+```
+It will output the number of parameters and print per-layer computational cost of a given network.
 
 ### Acknowlegement
 
