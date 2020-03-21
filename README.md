@@ -23,7 +23,7 @@ git clone https://github.com/WangHonglie/LFASM_pytroch
 
 ---
 
-1.Download the dataset([VeRi776](https://github.com/VehicleReId/VeRidataset)\[VehicleID](https://medusa.fit.vutbr.cz/traffic/datasets/)\[PKU_VD](https://pkuml.org/resources/pku-vehicleid.html))
+1.Download the dataset([VeRi776](https://github.com/VehicleReId/VeRidataset)/[VehicleID](https://medusa.fit.vutbr.cz/traffic/datasets/)/[PKU_VD](https://pkuml.org/resources/pku-vehicleid.html))
 
 2.Train
 
