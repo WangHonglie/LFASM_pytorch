@@ -23,7 +23,7 @@ git clone https://github.com/WangHonglie/LFASM_pytroch
 
 ---
 
-1.Download the dataset(VeRi776\VehicleID\PKU_VD)
+1.Download the dataset([VeRi776](https://github.com/VehicleReId/VeRidataset)\[VehicleID](https://medusa.fit.vutbr.cz/traffic/datasets/)\[PKU_VD](https://pkuml.org/resources/pku-vehicleid.html))
 
 2.Train
 
@@ -55,6 +55,8 @@ It will output Rank@1,Rank@5,Rand@10 and mAP
 python flops.py
 ```
 It will output the number of parameters and print per-layer computational cost of a given network.
+
+
 
 ### Acknowlegement
 
